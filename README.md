@@ -33,7 +33,7 @@
 
 <br>
 <HR>
-<h2 align="center">My Statistics:</h2><br>
+<h3 align="center">My Statistics:</h3><br>
 
 <p align="center">
   
@@ -53,7 +53,7 @@
 
 <br>
 
-<h2 align="center">Connect With Me:</h2>
+<h3 align="center">Connect With Me:</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chulani-vimukthi-b8374723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chulani-vimukthi-b8374723b/" height="50" width="50" /></a> <a href="https://kaggle.com/chulanivimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chulanivimukthi" height="50" width="50" /></a> <a href="https://instagram.com/chulani518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chulani518" height="50" width="50" /></a> </p>
@@ -61,7 +61,7 @@
 <br>
 <hr>
 
-<h2 align="center">Languages And Tools:</h2><br>
+<h3 align="center">Languages And Tools:</h3><br>
 
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a>
@@ -96,7 +96,7 @@
 
 <hr>
 
-<h2 align="center">Support:</h2>
+<h3 align="center">Support:</h3>
 
 <p align="center"><a href="https://buymeacoffee.com/chulanivimukthi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
 
