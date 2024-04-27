@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Undergraduate Student & A Passionate Frontend Developer</h3><br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chula805&label=Profile%20Views&color=c11e38&style=flat" alt="chula805" width="200" height="50"/> </p> <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chula805&label=Profile%20Views&color=c11e38&style=flat" alt="chula805" width="200" height="40"/> </p> <br>
 
 <table align="center">
 <tr border="none"> 
